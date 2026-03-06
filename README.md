@@ -10,7 +10,7 @@
 
 ##  2. Configuration
 * **Outil d'interception :** Burp Suite Community Edition v2026.2.3
-* **Configuration Proxy :** Trafic intercepté via l'hôte (`<IP_HOTE>:<PORT_PROXY>`).
+* **Configuration Proxy :** Trafic intercepté via l'hôte (`192.168.100.14/8081`).
 * **Date de l'audit :** 5 Mars 2026 à 19:31:35
 
 ---
